@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 
-##### 반갑습니다!:raising_hand: 
+##### 반갑습니다! :raising_hand: 
 ##### 저는 백엔드 개발자를 목표로 하고 있는 최재혁입니다.
 
 ##### :bulb: Tech Stack :bulb:
