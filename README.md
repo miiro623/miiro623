@@ -10,9 +10,9 @@
 ##### 저는 백엔드 개발자를 목표로 하고 있는 최재혁입니다.
 
 ##### :bulb: Tech Stack :bulb:
-<a> 
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</a>
+</div>
 
