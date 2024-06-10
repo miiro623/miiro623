@@ -9,8 +9,8 @@
 ## :raising_hand: 반갑습니다! 
 ## 저는 백엔드 개발자를 목표로 하고 있는 최재혁입니다.
 
-## :bulb: Tech Stack :bulb:
+# :bulb: Tech Stack :bulb:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
